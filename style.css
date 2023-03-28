@@ -1,0 +1,15 @@
+body {
+  text-align: center;
+  margin: 200px;
+  font-family: "Roboto Mono", monospace;
+}
+
+div {
+  border: 5px solid black;
+  padding: 50px;
+  box-shadow: 5px 10px;
+}
+
+.btn{
+    font-size: large;
+}
